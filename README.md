@@ -75,10 +75,10 @@ URL of deployed app:  [https://github.com/porlowska/REPLACE HERE](https://career
 
 ## Screenshots
 
-![Career Keys Screenshot Landing Page](./public/images/screenshots/landing_page.png)
-![Career Keys Screenshot Search](./public/images/screenshots/search.png)
-![Career Keys Screenshot Keywords](./public/images/screenshots/keywords.png)
-![Career Keys Screenshot Mobile Version](./public/images/screenshots/mobile_version.png)
+![Career Keys Screenshot Landing Page](public/images/screenshots/landing_page.png)
+![Career Keys Screenshot Search](public/images/screenshots/search.png)
+![Career Keys Screenshot Keywords](public/images/screenshots/keywords.png)
+![Career Keys Screenshot Mobile Version](public/images/screenshots/mobile_version.png)
 
 ## License
 
